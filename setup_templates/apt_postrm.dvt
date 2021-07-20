@@ -1,0 +1,9 @@
+#!/bin/sh -e
+
+if [ "$1" = remove ] ; then
+
+  # remove possible repos
+  echo "Remove possible repos"
+  rm -f /etc/apt/sources.list.d/protonvpn-stable.list
+
+fi
