@@ -1,2 +1,1 @@
-deb [signed-by=/usr/share/keyrings/q4a-protonvpn.pub trusted=yes] https://repo.protonvpn.com/debian stable main
-##deb [signed-by=/usr/share/keyrings/q4a-protonvpn.pub trusted=yes] https://repo.protonvpn.com/debian stable main
+deb [signed-by=/usr/share/keyrings/q4a-protonvpn.gpg trusted=yes] https://repo.protonvpn.com/debian stable main
